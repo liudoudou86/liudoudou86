@@ -28,7 +28,7 @@
 - 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
 
 <!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<table align="center">
+<table align="left">
   <tr>
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
