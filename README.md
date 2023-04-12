@@ -1,22 +1,48 @@
-### Yoo, I'm 毛毛虫 👋
+<p align="center">
+  <h1 height="200px" align="center">
+    Yoo, I'm 毛毛虫 👋
+  </h1>
+   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 tester from China</p>
+</p>
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/hayschan)
-[![RSS](https://img.shields.io/badge/dynamic/json?logo=rss&logoColor=white&label=RSS&labelColor=95B8D1&color=95B8D1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dfeedly%257Cinoreader%257CfeedsPub%26queryKey%3Dhttps://haysc.tech/feed.xml&style=flat-square)](https://haysc.tech/) 
+<!-- 
+  技术栈标签, 小标签来自: https://shields.io/
+  1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
+  2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+-->
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="22" height="22"/> 
+</div>
+
+<!-- 关于我 -->
+<h2 height="200px" align="center">🎉 About Me</h2>
+<br />
 
 - 🔭 I’m currently working on [anturo-bdd](https://github.com/liudoudou86/anturo-bdd.git) 
 - 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
 
-### Skill description
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+</picture>
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="22" height="22"/> 
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liudoudou86&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liudoudou86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+    </td>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=liudoudou86&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
+    </td>
+  </tr>
+</table>
