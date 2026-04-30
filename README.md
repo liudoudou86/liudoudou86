@@ -1,37 +1,51 @@
+<h1 align="center">Yoo, I'm 毛毛虫 👋</h1>
 <p align="center">
-  <h1 height="200px" align="center">
-    Yoo, I'm 毛毛虫 👋
-  </h1>
-   <p align="center">A Sometimes passion ✨ and sometimes idle 🥋 tester from China</p>
+  <b>A Sometimes passion ✨ and sometimes idle 🥋 tester from China</b>
 </p>
 
-<!-- 
-  技术栈标签, 小标签来自: https://shields.io/
-  1. shields 链接格式: https://img.shields.io/badge/-{标签文本}-{标签背景色}?style={标签类型}&logo={标签前面 Logo}&logoColor={Logo 颜色}
-  2. shields 可选 Logo 列表参考: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
--->
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="22" height="22"/> 
-</div>
+<p align="center">
+  <a href="https://github.com/liudoudou86"><img src="https://img.shields.io/badge/-liudoudou86-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+</p>
 
-<!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
-<br />
+---
 
-- 🔭 I’m currently working on [anturo-bdd](https://github.com/liudoudou86/anturo-bdd.git) 
-- 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="22" height="22"/> 
+### 🎉 About Me
 
-<!-- 统计卡片, see: https://github.com/anuraghazra/github-readme-stats -->
-<table align="left">
-  <tr>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
-    </td>
-  </tr>
-</table>
+- 🔭 I'm currently working on [anturo-bdd](https://github.com/liudoudou86/anturo-bdd)
+- 🌱 I'm currently learning Java
+- 💬 Ask me about testing, automation, Python
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=centos&logoColor=white" alt="CentOS" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liudoudou86&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liudoudou86&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liudoudou86&theme=react-dark&hide_border=true&bg_color=00000000" alt="GitHub Activity Graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Built with ❤️ on GitHub</i>
+</p>
